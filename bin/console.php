@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 /**
  * Usings with PHP 7.0
