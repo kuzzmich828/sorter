@@ -2,7 +2,7 @@
 
 # Installation
 - `$ composer install`
-- `git clone https://github.com/kuzzmich828/sorter.git`
+- `$ git clone https://github.com/kuzzmich828/sorter.git`
 
 # Execute
 Sort ASC
