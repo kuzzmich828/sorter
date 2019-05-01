@@ -1,8 +1,7 @@
 # Design Pattern Strategy
 
 # Installation
-- `$ composer install`
-- `$ git clone https://github.com/kuzzmich828/sorter.git`
+`$ composer require kuzzmich828/sorter` 
 
 # Execute
 Sort ASC
