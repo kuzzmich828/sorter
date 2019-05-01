@@ -1,0 +1,8 @@
+# Mac DS_Store Files
+.DS_Store
+
+# PhpStorm project files
+/.idea/
+
+# Composer vendor dir
+/vendor/
