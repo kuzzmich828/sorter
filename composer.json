@@ -1,7 +1,7 @@
 {
   "name": "kuzzmich828/sorter",
-  "description": "OOP. Sorter",
-  "type": "project",
+  "description": "Sorter Library",
+  "type": "library",
   "license": "BSD-3-Clause",
   "authors": [
     {
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "App\\": "src/"
+      "App\\Sorter\\": "src/"
     }
   },
   "require-dev": {

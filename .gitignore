@@ -6,3 +6,5 @@
 
 # Composer vendor dir
 /vendor/
+
+/.php_cs.cache

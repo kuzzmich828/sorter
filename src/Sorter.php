@@ -1,12 +1,12 @@
 <?php
 
-namespace App;
+namespace App\Sorter;
 /**
  * Class SortStrategy
  * @package App
  * Class for implements pattern strategy
  */
-final class SortStrategy extends AbstractSorter
+final class Sorter extends AbstractSorter
 {
 
     /**

@@ -1,11 +1,7 @@
 <?php
 
-namespace App;
+namespace App\Sorter;
 
-/**
- * Class AbstractSorter
- * @package App
- */
 abstract class AbstractSorter implements SorterInterface
 {
     /**

@@ -1,10 +1,7 @@
 <?php
 
-namespace App;
-/**
- * Class NullObjectSorter
- * @package App
- */
+namespace App\Sorter;
+
 class NullObjectSorter implements SorterInterface
 {
     /**

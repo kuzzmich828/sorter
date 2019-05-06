@@ -1,7 +1,6 @@
 <?php
 
-
-namespace App;
+namespace App\Sorter;
 /**
  * Class SortDesc
  * @package App

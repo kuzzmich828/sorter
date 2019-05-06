@@ -1,9 +1,9 @@
-# Design Pattern Strategy
+# Sorter Library
 
-# Installation
+## Usage
 `$ composer require kuzzmich828/sorter` 
 
-# Execute
+## Execute
 Sort ASC
 --------------
 ```php

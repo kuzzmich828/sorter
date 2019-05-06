@@ -1,13 +1,8 @@
 <?php
 
 
-namespace App;
+namespace App\Sorter;
 
-/**
- * Class SortAsc
- * @package App
- * Class for Sort array by asc
- */
 final class SortAsc implements SorterInterface
 {
     /**
