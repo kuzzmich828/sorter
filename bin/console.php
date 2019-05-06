@@ -14,12 +14,12 @@ print_r($result);
 $result = $sorter->sort($stringArray);
 print_r($result);
 
-$sorter->setMethod(new SortDesc());
+$sorter->setSortingMethod(new SortDesc());
 $result = $sorter->sort($intArray);
 print_r($result);
 $result = $sorter->sort($stringArray);
 print_r($result);
 
-$sorter->setMethod(new NullObjectSorter());
+$sorter->setSortingMethod(new NullObjectSorter());
 $result = $sorter->sort($intArray);
 print_r($result);

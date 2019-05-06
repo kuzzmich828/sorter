@@ -12,7 +12,7 @@ final class SortDesc implements SorterInterface
      * @param $array
      * @return mixed
      */
-    public function sort($array)
+    public function sort($array) : array
     {
         \rsort($array);
         return $array;

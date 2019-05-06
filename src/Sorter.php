@@ -26,7 +26,7 @@ final class Sorter extends AbstractSorter
     /**
      * @param SorterInterface $strategy
      */
-    public function setMethod(SorterInterface $strategy)
+    public function setSortingMethod(SorterInterface $strategy)
     {
         $this->strategy = $strategy;
     }
@@ -35,7 +35,7 @@ final class Sorter extends AbstractSorter
      * @param $array
      * @return mixed
      */
-    public function sort($array)
+    public function sort($array) : array
     {
         if ($this->validate($array)) {
             return $this->strategy->sort($array);

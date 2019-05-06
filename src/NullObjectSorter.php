@@ -7,8 +7,9 @@ class NullObjectSorter implements SorterInterface
     /**
      * @param $array
      */
-    public function sort($array)
+    public function sort($array) : array
     {
         // this is null object
+        return $array;
     }
 }
